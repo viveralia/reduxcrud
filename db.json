@@ -1,0 +1,40 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "johndoe@mail.com",
+      "phone": "5555555550"
+    },
+    {
+      "id": 2,
+      "name": "Ashok Kumar",
+      "email": "ashokkumar@mail.com",
+      "phone": "5555555551"
+    },
+    {
+      "id": 3,
+      "name": "Jackie Joe",
+      "email": "jackiejoe@mail.com",
+      "phone": "5555555552"
+    },
+    {
+      "id": 4,
+      "name": "Marta Moe",
+      "email": "martamoe@mail.com",
+      "phone": "5555555553"
+    },
+    {
+      "name": "Paulina Valero",
+      "email": "pauline.valero@gmail.com",
+      "phone": "+52519178949",
+      "id": 6
+    },
+    {
+      "name": "Ivan Viveros",
+      "email": "ivan.viveros@gmail.com",
+      "phone": "+525519178949",
+      "id": 7
+    }
+  ]
+}
