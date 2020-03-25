@@ -22,3 +22,5 @@ json-server --watch db.json --port 3001
 ## Making of
 
 This project uses Airbnb ESlint configuration with Prettier, so, if you are using VSCode, make sure to have those installed too. They work like magic together ✨
+
+Also, if you want to deploy this project, make sure to change and **ignore** the .env file inside this project
